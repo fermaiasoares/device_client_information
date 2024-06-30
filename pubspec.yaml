@@ -1,7 +1,7 @@
 name: device_client_information
-description: "A new Flutter plugin project."
-version: 0.0.1
-homepage: ""
+description: "Plugin para obter as informações do dispositivo como uniqueId"
+version: 0.0.1+1
+homepage: https://github.com/fermaiasoares/device_client_information
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
